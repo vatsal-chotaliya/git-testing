@@ -2,3 +2,4 @@ hello world
 prepend content to index
 new branch index update
 stash_branch
+add stash content 1
