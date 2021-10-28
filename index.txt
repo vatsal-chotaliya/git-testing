@@ -1,9 +1,3 @@
 hello world
 prepend content to index
 new branch index update
-stash_branch
-<<<<<<< Updated upstream
-=======
-stash_branch add new content
-stash content 2
->>>>>>> Stashed changes
