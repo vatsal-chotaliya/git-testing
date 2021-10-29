@@ -4,7 +4,3 @@ new branch index update
 content 3 here for stash
 stash check content 1
 content 2 here for stash
-
-
-hello
-new
